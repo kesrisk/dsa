@@ -39,6 +39,8 @@ def c_sort(arr):
 
 # https://www.youtube.com/watch?v=OKd534EWcdk
 # find index of starting of all the elemets and then based on index just add it into a new array
+# Application - we can use if we have to find starting index of an element, or we need to sort some elements having same 
+# params and we need to preserve order of the values
 
 # suppose numbers are from 0 to 9
 arr = [0,1,3,2,0,4,8,9,1,2,5,5,4]
